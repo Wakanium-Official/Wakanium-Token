@@ -6,6 +6,3 @@ Official Wakanium Token ERC20 compliant code written on the latest version of so
 [Website](https://wakanium.com)
 
 [Twitter](https://https://twitter.com/wakanium)
-
-### Credits
-• [Ali Solanki](https://github.com/alisolanki/Bio) - CTO, Wakanium
